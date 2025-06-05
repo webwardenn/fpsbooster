@@ -83,11 +83,4 @@ If you have suggestions or experience issues, feel free to reach out!
 
 ---
 
-## 📬 Contact & Feedback
-
-📧 Developer: [Your Email or Discord Tag]  
-💡 Suggestions, feedback, or bug reports are always welcome.
-
----
-
 Made with ❤️ for gamers.
