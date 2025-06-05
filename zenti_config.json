@@ -1,0 +1,7 @@
+{
+    "update_interval": 10,
+    "start_with_windows": false,
+    "start_minimized": false,
+    "auto_boost": false,
+    "optimization_level": 3
+}
